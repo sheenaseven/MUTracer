@@ -17,7 +17,7 @@ MUTracer is a variant calling protocol for specifically characterize the somatic
 
 ## Prerequisites
 
-• SAVI2 report.coding.PDfilter.txt and report.coding.txt
+• [SAVI2](https://github.com/WangLabHKUST/SAVI) report.coding.PDfilter.txt and report.coding.txt
 
 ## Workflow
 
@@ -65,7 +65,7 @@ python screenSomaticMutation.py Input_SAVI_PDfilter.txt
 
 ### Step 2: Prioritize somatic mutations 
 
-After step 1, the mutated genes can be collected. Then STRING database was then employed to prioritize these genes that are related with CCM1, CCM2, CCM3 and MAP3K3. Finally, screen candidates with mutations in prioritized genes.
+After step 1, the mutated genes can be collected. Then [STRING database](https://string-db.org/) was then employed to prioritize these genes that are related with CCM1, CCM2, CCM3 and MAP3K3. Finally, screen candidates with mutations in prioritized genes.
 
 ### Step 3: Re-examine potential low-frequency somatic mutations 
 
