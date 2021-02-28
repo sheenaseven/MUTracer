@@ -1,7 +1,7 @@
 # MUTracer
 
 
-<div align=center><img src="logo.png" style="display: block; margin: auto;" ></div>
+<div align=center><img width="300" src="logo.png" style="display: block; margin: auto;" ></div>
 
 ## Ownership
 
