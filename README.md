@@ -1,7 +1,7 @@
 # MUTracer
 
 
-<div align=center><img width="300" src="logo.jpg" style="display: block; margin: auto;" ></div>
+<div align=center><img width="300" src="logo.png" style="display: block; margin: auto;" ></div>
 
 ## Ownership
 
@@ -74,6 +74,3 @@ Recheck the report.coding.txt including the candidates with mutations in priorit
 
 28 Feb 2021
 
-
-
-# MUTracer
